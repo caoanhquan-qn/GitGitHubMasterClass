@@ -45,4 +45,4 @@ Android | iOS | Windows
 Medium App for Android | *Medium App for iOS* | **Medium App for Windows**
 Java, Android Studio, Samsung mobile phone | Swift, iOS App | C#, .NET
 [Play Store](https://play.google.com/store) | [App Store](https://www.apple.com/au/ios/app-store/) | [Microsoft Store](https://www.microsoft.com/en-au/store/apps/windows)
-![](https://1000logos.net/wp-content/uploads/2016/10/colors-Android-logo.jpg "Android") | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1024px-IOS_logo.svg.png "iOS") | ![](https://zdnet2.cbsistatic.com/hub/i/r/2014/08/27/0d77a99a-2da9-11e4-9e6a-00505685119a/resize/1200x900/02acdb68a1edf918b42c3fabf4843745/microsofts-logo-gets-a-makeover.jpg "Microsoft")
+![](android_logo.jpeg "Android") | ![](iOS_logo.png "iOS") | ![](microsoft_logo.jpeg "Microsoft")
