@@ -10,9 +10,9 @@ __I__ am going to discuss about _markdown_ in here, this is ***all*** about expl
 
 ### Create markdown unordered list
 
-- the first element
+- The first element
    - HTML, CSS and Javascript
-- the second element
+- The second element
    - JS Framework
 
 + Quan
@@ -37,3 +37,12 @@ __I__ am going to discuss about _markdown_ in here, this is ***all*** about expl
 
 - [ ] Task 1
 - [ ] Task 2
+
+### Create a markdown table and link reference
+
+Android | iOS | Windows
+:--- | :---: | ---:
+Medium App for Android | *Medium App for iOS* | **Medium App for Windows**
+Java, Android Studio, Samsung mobile phone | Swift, iOS App | C#, .NET
+[Play Store](https://play.google.com/store) | [App Store](https://www.apple.com/au/ios/app-store/) | [Microsoft Store](https://www.microsoft.com/en-au/store/apps/windows)
+ 
