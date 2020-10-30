@@ -45,4 +45,9 @@ Android | iOS | Windows
 Medium App for Android | *Medium App for iOS* | **Medium App for Windows**
 Java, Android Studio, Samsung mobile phone | Swift, iOS App | C#, .NET
 [Play Store](https://play.google.com/store) | [App Store](https://www.apple.com/au/ios/app-store/) | [Microsoft Store](https://www.microsoft.com/en-au/store/apps/windows)
-![](android_logo.jpeg "Android") | ![](iOS_logo.png "iOS") | ![](microsoft_logo.jpeg "Microsoft")
+![Android](android_logo.jpeg "Android") | ![iOS](iOS_logo.png "iOS") | ![Windows](microsoft_logo.jpeg "Microsoft")
+
+### Add video
+Click on the image below to watch the video:
+
+[![](https://img.youtube.com/vi/RGOj5yH7evk/mqdefault.jpg)](https://youtu.be/RGOj5yH7evk)
