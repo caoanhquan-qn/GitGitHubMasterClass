@@ -38,7 +38,7 @@ __I__ am going to discuss about _markdown_ in here, this is ***all*** about expl
 - [ ] Task 1
 - [ ] Task 2
 
-### Create a markdown table and link reference
+### Create a markdown table and reference link
 
 Android | iOS | Windows
 :--- | :---: | ---:
@@ -51,3 +51,27 @@ Java, Android Studio, Samsung mobile phone | Swift, iOS App | C#, .NET
 Click on the image below to watch the video:
 
 [![](https://img.youtube.com/vi/RGOj5yH7evk/mqdefault.jpg)](https://youtu.be/RGOj5yH7evk)
+
+### Add code block 
+
+**HTML5**
+
+``` html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chicken</title>
+</head>
+<body>
+</body>
+</html>
+
+```
+**Java**
+
+``` java
+public static void main(String[] args) { }
+
+```
